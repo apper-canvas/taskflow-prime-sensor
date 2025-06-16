@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "title": "Review quarterly budget reports",
+    "description": "Analyze Q3 financial performance and prepare recommendations for Q4 adjustments",
+    "dueDate": "2024-01-15",
+    "priority": "high",
+    "category": "Work",
+    "completed": false,
+    "createdAt": "2024-01-10T09:00:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "Update project documentation",
+    "description": "Revise API documentation and user guides for the new features released in v2.1",
+    "dueDate": "2024-01-18",
+    "priority": "medium",
+    "category": "Work",
+    "completed": false,
+    "createdAt": "2024-01-10T10:30:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "Schedule dentist appointment",
+    "description": "Book routine cleaning and checkup for next month",
+    "dueDate": "2024-01-20",
+    "priority": "low",
+    "category": "Personal",
+    "completed": true,
+    "createdAt": "2024-01-09T14:15:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "Prepare presentation for client meeting",
+    "description": "Create slides showcasing project progress and next milestones for Friday's stakeholder review",
+    "dueDate": "2024-01-17",
+    "priority": "high",
+    "category": "Work",
+    "completed": false,
+    "createdAt": "2024-01-11T08:45:00Z"
+  },
+  {
+    "Id": 5,
+    "title": "Organize home office",
+    "description": "Declutter desk, organize files, and set up better lighting for productivity",
+    "dueDate": "2024-01-22",
+    "priority": "medium",
+    "category": "Personal",
+    "completed": false,
+    "createdAt": "2024-01-11T16:20:00Z"
+  }
+]
